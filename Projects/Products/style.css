@@ -1,0 +1,16 @@
+
+.products{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 4rem 2rem;
+}
+.product{
+    width: 20%;
+    padding: 1rem 1.2rem;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24);
+    margin: 1rem;
+
+}
